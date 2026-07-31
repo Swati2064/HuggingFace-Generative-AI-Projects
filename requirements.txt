@@ -1,0 +1,13 @@
+transformers
+diffusers
+torch
+torchvision
+torchaudio
+accelerate
+datasets
+huggingface_hub
+Pillow
+numpy
+matplotlib
+sentencepiece
+protobuf
