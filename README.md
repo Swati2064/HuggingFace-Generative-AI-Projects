@@ -158,9 +158,6 @@ Contributions are welcome.
 
 ---
 
-## ⭐ Support
-
-If you found this repository useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
